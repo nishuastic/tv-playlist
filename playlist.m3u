@@ -146,7 +146,7 @@ http://116.90.120.149:8000/play/a12z/index.m3u8
 #EXTINF:-1 tvg-id="HM.TV.in" tvg-logo="https://dtil.tmsimg.com/assets/s143136_ld_h15_aa.png?lock=720x540" group-title="News",HMTV (India) (720p)
 https://cdn.pishow.tv/ott/live/280/master.m3u8
 #EXTINF:-1 tvg-id="HNN.24x7.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/HNN24x7.png" group-title="News",HNN 24x7 (576p)
-https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlHNN24X7/index.m3u8
 #EXTINF:-1 tvg-id="Hornbill.TV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HORNBILL/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",Hornbill TV (576p)
 https://fta.ektv.in/live/710/master.m3u8
 #EXTINF:-1 tvg-id="Hosanna.TV.in" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="Religious",Hosanna TV Global
@@ -297,6 +297,8 @@ https://live.we2live.in/taazatv/live/playlist.m3u8
 https://cdn.pishow.tv/ott/live/239/master.m3u8
 #EXTINF:-1 tvg-id="Times.Now.Navbharat.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD/images/LOGO_HD/image.png" group-title="News",Times Now Navbharat (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
+#EXTINF:-1 tvg-id="TLC.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png" group-title="Lifestyle",TLC (India) HD (1080p)
+http://116.90.120.149:8000/play/a11g/index.m3u8
 #EXTINF:-1 tvg-id="TNP.News.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TNP_News.png" group-title="News",TNP News (1080p)
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 #EXTINF:-1 tvg-id="Total.Tv.Haryana.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TOTAL_TV/images/LOGO_HD/image.png" group-title="Undefined",Total TV Haryana (1080p)
